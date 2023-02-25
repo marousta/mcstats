@@ -1,0 +1,8 @@
+2023/02/25 17:31:10 [emerg] 1#1: host not found in upstream "backend" in /etc/nginx/sites-enabled/default:36
+2023/02/25 17:31:11 [emerg] 1#1: host not found in upstream "backend" in /etc/nginx/sites-enabled/default:36
+2023/02/25 17:31:12 [emerg] 1#1: host not found in upstream "backend" in /etc/nginx/sites-enabled/default:36
+2023/02/25 17:31:13 [emerg] 1#1: host not found in upstream "backend" in /etc/nginx/sites-enabled/default:36
+2023/02/25 17:31:14 [emerg] 1#1: host not found in upstream "backend" in /etc/nginx/sites-enabled/default:36
+2023/02/25 17:31:16 [emerg] 1#1: host not found in upstream "backend" in /etc/nginx/sites-enabled/default:36
+2023/02/25 17:31:20 [emerg] 1#1: host not found in upstream "backend" in /etc/nginx/sites-enabled/default:36
+2023/02/25 17:31:27 [emerg] 1#1: host not found in upstream "backend" in /etc/nginx/sites-enabled/default:36

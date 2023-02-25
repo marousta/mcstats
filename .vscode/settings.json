@@ -1,0 +1,14 @@
+{
+	"prettier.bracketSameLine": true,
+	"prettier.jsxSingleQuote": true,
+	"prettier.printWidth": 100,
+	"prettier.singleQuote": true,
+	"prettier.tabWidth": 4,
+	"prettier.useTabs": true,
+	"editor.detectIndentation": false,
+	"workbench.tree.indent": 14,
+	"editor.tabSize": 4,
+	"editor.insertSpaces": false,
+	"editor.formatOnSave": false,
+	"files.exclude": { "**/node_modules": true }
+}
